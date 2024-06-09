@@ -10,7 +10,7 @@ This is a simple note management application built with Node.js and Express.js. 
 - Delete a note
 
 ## Demo
-[Demo]: https://sticky-note-n444.onrender.com
+[Demo]: https://sticky-note-n444.onrender.com/notes
 [Demo][Demo]
 ## Installation
 
